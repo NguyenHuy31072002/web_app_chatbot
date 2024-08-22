@@ -5,12 +5,12 @@ Xin lưu ý rằng API Gemini cho phép 60 truy vấn mỗi phút.
 
 ## Local Setup
 
-### Step 1: Clone the Repository
+### Bước 1: Sao chép kho lưu trữ
 ```bash
 git clone https://github.com/NguyenHuy31072002/web_app_chatbot.git
 ```
 
-### Step 2: Add API Key
+### Bước 2: Thêm API Key
 Replace the following line of code in app.py with your Gemini API key:
 ```python
 my_api_key_gemini = os.getenv('my_new_api_key_here')
@@ -20,24 +20,24 @@ Replace it with:
 ```python
 my_api_key_gemini = "your_api_key_here"
 ```
-You can obtain your API key from [here](https://makersuite.google.com/app/apikey). Once you have the key, proceed to the next step.
+Bạn có thể lấy khóa API của mình từ [tại đây](https://makersuite.google.com/app/apikey). Khi bạn có chìa khóa, hãy chuyển sang bước tiếp theo.
 
 
-### Step 3: Install Dependencies
+### Bước 3: Cài đặt phụ thuộc
 ```bash
 pip install -r requirements.txt
 ```
-### Step 4: Run the Web App
-In the terminal, execute the following command:
+### Bước 4: Chạy Web App
+Trong terminal, thực hiện lệnh sau:
 
 ```
 python app.py
 ```
 
-This will launch a web app locally. Open your browser and navigate to the provided address (usually http://localhost:5000/) to interact with the Gemini AI chatbot.
+Điều này sẽ khởi chạy một ứng dụng web cục bộ. Mở trình duyệt của bạn và điều hướng đến địa chỉ được cung cấp (thường là http://localhost:5000/) để tương tác với chatbot luật pháp việt nam.
 
-Feel free to explore and customize the code according to your needs. Contributions are welcome!
+Hãy thoải mái khám phá và tùy chỉnh mã theo nhu cầu của bạn. Đóng góp được chào đón!
 
 **Notes**
-* Ensure that you have Python installed on your system.
-* Use a virtual environment for better isolation of dependencies.
+* Đảm bảo rằng bạn đã cài đặt Python trên hệ thống của mình.
+* Sử dụng môi trường ảo để cách ly các phần phụ thuộc tốt hơn.
