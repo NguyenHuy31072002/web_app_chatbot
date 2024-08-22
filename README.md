@@ -1,11 +1,7 @@
 # CHATBOT LUẬT VIỆT NAM
-**Demo Link:** [Website Demo](https://whale-app-htuk7.ondigitalocean.app/)
-<img src="static/images/demo.gif" alt="Demo GIF" width="700"/>
-
 ## Overview
-This repository contains a basic implementation of a web app using the Gemini AI chatbot API. The web app is built using the Flask framework in Python. The Gemini AI chatbot is powered by the Gemini Pro API, allowing users to interact with a chatbot trained on a massive dataset of 1.5 Trillion tokens.
-
-Please note that the Gemini API allows 60 queries per minute.
+Kho lưu trữ này chứa cách triển khai cơ bản của một ứng dụng web bằng API chatbot Gemini AI. Ứng dụng web được xây dựng bằng khung Flask trong Python. Chatbot Gemini AI được cung cấp bởi API Gemini Pro, cho phép người dùng tương tác với chatbot được đào tạo trên bộ dữ liệu khổng lồ gồm 1,5 nghìn tỷ mã thông báo. 
+Xin lưu ý rằng API Gemini cho phép 60 truy vấn mỗi phút.
 
 ## Local Setup
 
