@@ -7,7 +7,7 @@ Xin lưu ý rằng API Gemini cho phép 60 truy vấn mỗi phút.
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/FareedKhan-dev/Gemini-AI-chatbot.git
+git clone https://github.com/NguyenHuy31072002/web_app_chatbot.git
 ```
 
 ### Step 2: Add API Key
