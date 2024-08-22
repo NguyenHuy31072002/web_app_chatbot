@@ -1,4 +1,4 @@
-# Gemini AI Chatbot
+# CHATBOT LUẬT VIỆT NAM
 **Demo Link:** [Website Demo](https://whale-app-htuk7.ondigitalocean.app/)
 <img src="static/images/demo.gif" alt="Demo GIF" width="700"/>
 
